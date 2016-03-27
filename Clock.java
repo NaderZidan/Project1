@@ -1,4 +1,3 @@
-//TEST COMMENT
 import javax.swing.*;
 public class Clock implements Runnable {
 	private int min;
